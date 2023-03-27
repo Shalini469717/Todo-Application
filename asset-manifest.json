@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Todo-Application/static/css/main.6e4801a9.css",
+    "main.js": "/Todo-Application/static/js/main.86d72660.js",
+    "static/media/aesthetic-wallpaper.gif": "/Todo-Application/static/media/aesthetic-wallpaper.c6470f975beae5b7b142.gif",
+    "index.html": "/Todo-Application/index.html",
+    "main.6e4801a9.css.map": "/Todo-Application/static/css/main.6e4801a9.css.map",
+    "main.86d72660.js.map": "/Todo-Application/static/js/main.86d72660.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e4801a9.css",
+    "static/js/main.86d72660.js"
+  ]
+}
